@@ -58,7 +58,7 @@ var Engine = (function(global) {
         win.requestAnimationFrame(main);
     }
 
-    /* This function does some initial setup that should only occur once,
+    /* This function does some initial setup that should cx09  y occur once,
      * particularly setting the lastTime variable that is required for the
      * game loop.
      */
@@ -79,7 +79,7 @@ var Engine = (function(global) {
      */
     function update(dt) {
         updateEntities(dt);
-        // checkCollisions();
+        checkCollisions();
     }
 
     /* This is called by the update function and loops through all of the
