@@ -1,5 +1,12 @@
 # Arcade Game Project
-I just build a simple Arcade game with game engine from udacity. use your arrow key to move the character, make sure your character doesnt collide with the bug and can pass by until the character reach the water tiles
+
+## How to Play
+I just build a simple Arcade game with game engine from udacity. 
+* open the game with simple open the index.html in your lovely browser (e.g. Google Chrome) or open this link [arcade game](#https://danangyudhatama.github.io/frontend-nanodegree-arcade-game/)
+* use your arrow key to move the character 
+* make sure your character doesnt collide with the bug and can pass by until the character reach the water tiles
+
+
 
 ## Table of Contents
 
